@@ -1,21 +1,21 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;400&display=swap');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(248, 197, 233);
+    font-family: 'Raleway', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: rgb(170, 170, 167);
 }
 
 h1 {
-    font-weight: normal;
+    font-weight: bold;
     margin: auto;
     background: #fff;
     line-height: 2.5em;
