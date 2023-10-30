@@ -21,6 +21,10 @@ h1 {
     line-height: 2.5em;
 }
 
+h1.page-header {
+    background-color:rgb(152, 211, 221);
+}
+
 main.wrapper {
     background-color: white;
     overflow: auto;
